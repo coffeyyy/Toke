@@ -312,6 +312,9 @@ The project is structured as a library (`src/lib.rs`) with a thin binary entry p
 
 ---
 
+## AI Usage
+50% manual / 50% AI. AI was used to browse documentation for crates and assist with troubleshooting difficult errors.
+
 ## License
 
 MIT
